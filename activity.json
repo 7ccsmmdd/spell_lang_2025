@@ -88,7 +88,7 @@
             "layout": {
                 "area": [
                     ["panel-composite"],
-                    ["panel-console"]
+                    ["panel-console", "hidden-panel-xtext"]
                 ]
             },
 
